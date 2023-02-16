@@ -25,3 +25,4 @@ We are shipping our templates with a very basic React configuration to let you q
 
 For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
 # mosaic-template
+# matador-admin
